@@ -1,0 +1,27 @@
+{
+  "name": "test-express",
+  "version": "1.0.0",
+  "description": "Making server on express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jkw224/test-express-app-.git"
+  },
+  "keywords": [
+    "express",
+    "server"
+  ],
+  "author": "Jonathan Wood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkw224/test-express-app-/issues"
+  },
+  "homepage": "https://github.com/jkw224/test-express-app-",
+  "dependencies": {
+    "countryjs": "^1.0.3",
+    "express": "^4.10.4"
+  }
+}
